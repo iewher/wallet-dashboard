@@ -1,12 +1,13 @@
 {
   "files": {
-    "main.css": "/wallet-dashboard/static/css/main.bfc6fa44.css",
-    "main.js": "/wallet-dashboard/static/js/main.d3d1b2b9.js",
+    "main.css": "/wallet-dashboard/static/css/main.7ad97f6e.css",
+    "main.js": "/wallet-dashboard/static/js/main.1d3eea3f.js",
     "static/media/card.svg": "/wallet-dashboard/static/media/card.de4a5fbbb2c4014b9d00c41fd6d676e6.svg",
     "static/media/overview.svg": "/wallet-dashboard/static/media/overview.0b9bdbb945963deb055e5ff7dca86132.svg",
     "static/media/logo.svg": "/wallet-dashboard/static/media/logo.fb90a1f6cf630497d94b187ef1dfd670.svg",
     "static/media/setting.svg": "/wallet-dashboard/static/media/setting.b684293abee61057802ffb176a6d22b8.svg",
     "static/media/invoice.svg": "/wallet-dashboard/static/media/invoice.4f7c339929362681556c9a4faf8293cd.svg",
+    "static/media/withdrawal.svg": "/wallet-dashboard/static/media/withdrawal.4959ca67a318d3a6a7fb9b45beef4625.svg",
     "static/media/activity.svg": "/wallet-dashboard/static/media/activity.357166777dcdf5689abe2ba813b6a2eb.svg",
     "static/media/order.svg": "/wallet-dashboard/static/media/order.6f0b52ec0304da46474dd3a709818437.svg",
     "static/media/push.svg": "/wallet-dashboard/static/media/push.364370848947f4a02fbead90a3d47b13.svg",
@@ -14,11 +15,11 @@
     "static/media/plus.svg": "/wallet-dashboard/static/media/plus.5391cc725a6c4d7ea8fe92a3d8dc3f8f.svg",
     "static/media/transaction.svg": "/wallet-dashboard/static/media/transaction.331113eaec2b8a3b3d8de3eded76f367.svg",
     "static/media/arrow-right.svg": "/wallet-dashboard/static/media/arrow-right.7d1f982ccc08bd747e590cc17352237d.svg",
-    "main.bfc6fa44.css.map": "/wallet-dashboard/static/css/main.bfc6fa44.css.map",
-    "main.d3d1b2b9.js.map": "/wallet-dashboard/static/js/main.d3d1b2b9.js.map"
+    "main.7ad97f6e.css.map": "/wallet-dashboard/static/css/main.7ad97f6e.css.map",
+    "main.1d3eea3f.js.map": "/wallet-dashboard/static/js/main.1d3eea3f.js.map"
   },
   "entrypoints": [
-    "static/css/main.bfc6fa44.css",
-    "static/js/main.d3d1b2b9.js"
+    "static/css/main.7ad97f6e.css",
+    "static/js/main.1d3eea3f.js"
   ]
 }
