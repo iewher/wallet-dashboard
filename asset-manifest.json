@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/wallet-dashboard/static/css/main.7d181f54.css",
-    "main.js": "/wallet-dashboard/static/js/main.4cf007f7.js",
+    "main.css": "/wallet-dashboard/static/css/main.a59a8289.css",
+    "main.js": "/wallet-dashboard/static/js/main.6de871e3.js",
     "static/media/card.svg": "/wallet-dashboard/static/media/card.de4a5fbbb2c4014b9d00c41fd6d676e6.svg",
     "static/media/overview.svg": "/wallet-dashboard/static/media/overview.0b9bdbb945963deb055e5ff7dca86132.svg",
     "static/media/logo.svg": "/wallet-dashboard/static/media/logo.fb90a1f6cf630497d94b187ef1dfd670.svg",
@@ -15,11 +15,11 @@
     "static/media/plus.svg": "/wallet-dashboard/static/media/plus.5391cc725a6c4d7ea8fe92a3d8dc3f8f.svg",
     "static/media/transaction.svg": "/wallet-dashboard/static/media/transaction.331113eaec2b8a3b3d8de3eded76f367.svg",
     "static/media/arrow-right.svg": "/wallet-dashboard/static/media/arrow-right.7d1f982ccc08bd747e590cc17352237d.svg",
-    "main.7d181f54.css.map": "/wallet-dashboard/static/css/main.7d181f54.css.map",
-    "main.4cf007f7.js.map": "/wallet-dashboard/static/js/main.4cf007f7.js.map"
+    "main.a59a8289.css.map": "/wallet-dashboard/static/css/main.a59a8289.css.map",
+    "main.6de871e3.js.map": "/wallet-dashboard/static/js/main.6de871e3.js.map"
   },
   "entrypoints": [
-    "static/css/main.7d181f54.css",
-    "static/js/main.4cf007f7.js"
+    "static/css/main.a59a8289.css",
+    "static/js/main.6de871e3.js"
   ]
 }
